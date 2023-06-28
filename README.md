@@ -3,4 +3,4 @@
 
 Projeto desenvolvido para estudar Python e desenvolvimento WEB.
 
-Com esse projeto aprendi conceitos basico de uma função de login.
+Com esse projeto aprendi conceitos basico de login de usuário.
